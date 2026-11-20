@@ -11,9 +11,9 @@
         "name": "Asura Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.asurascans-v1.6.72.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.asurascans-v1.6.72.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/en/asurascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.asurascans-v1.6.72.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.asurascans-v1.6.72.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106072",
@@ -32,9 +32,9 @@
         "name": "Flame Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.flamecomics",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.flamecomics-v1.6.3.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.flamecomics-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/en/flamecomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.flamecomics-v1.6.3.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.flamecomics-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -53,9 +53,9 @@
         "name": "Hive Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.infernalvoidscans-v1.6.73.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.infernalvoidscans-v1.6.73.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/en/hivescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.infernalvoidscans-v1.6.73.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.infernalvoidscans-v1.6.73.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106073",
@@ -74,9 +74,9 @@
         "name": "MangaGeko",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.mangarawclub-v1.6.1.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.mangarawclub-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/en/mangarawclub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.mangarawclub-v1.6.1.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.mangarawclub-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -95,9 +95,9 @@
         "name": "Manhwatop",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhwatop",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.manhwatop-v1.6.61.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.manhwatop-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/en/manhwatop/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.manhwatop-v1.6.61.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.manhwatop-v1.6.61.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106061",
@@ -116,9 +116,9 @@
         "name": "Rizz Comic",
         "packageName": "eu.kanade.tachiyomi.extension.en.rizzcomic",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.rizzcomic-v1.6.18.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.rizzcomic-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/en/rizzcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.rizzcomic-v1.6.18.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.rizzcomic-v1.6.18.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106018",
@@ -137,9 +137,9 @@
         "name": "Genz Toons",
         "packageName": "eu.kanade.tachiyomi.extension.en.suryascans",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.suryascans-v1.6.58.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.suryascans-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/en/suryascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-en.suryascans-v1.6.58.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-en.suryascans-v1.6.58.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106058",
@@ -158,9 +158,9 @@
         "name": "CosmicScans",
         "packageName": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.cosmicscansid-v1.6.3.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.cosmicscansid-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/id/cosmicscansid/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.cosmicscansid-v1.6.3.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.cosmicscansid-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -179,9 +179,9 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.kiryuu-v1.6.61.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.kiryuu-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/id/kiryuu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.kiryuu-v1.6.61.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.kiryuu-v1.6.61.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106061",
@@ -200,9 +200,9 @@
         "name": "Komik AV",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikav",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.komikav-v1.6.8.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.komikav-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/id/komikav/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.komikav-v1.6.8.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.komikav-v1.6.8.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106008",
@@ -221,9 +221,9 @@
         "name": "VoraToon",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.komikcast-v1.6.92.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.komikcast-v1.6.92.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/id/voratoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.komikcast-v1.6.92.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.komikcast-v1.6.92.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106092",
@@ -242,9 +242,9 @@
         "name": "KomikIndoID",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikindoid",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.komikindoid-v1.6.3.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.komikindoid-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/id/komikindoid/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.komikindoid-v1.6.3.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.komikindoid-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -263,20 +263,20 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.mangatale-v1.6.64.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.mangatale-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/id/ikiru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.mangatale-v1.6.64.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.mangatale-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2471382203854600486",
             "name": "Ikiru",
             "language": "id",
-            "homeUrl": "https://10.ikiru.wtf"
+            "homeUrl": "https://11.ikiru.wtf"
           }
         ]
       },
@@ -284,9 +284,9 @@
         "name": "Ngomik (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.id.ngomik",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.ngomik-v1.6.8.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.ngomik-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/id/ngomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.ngomik-v1.6.8.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.ngomik-v1.6.8.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106008",
@@ -305,9 +305,9 @@
         "name": "Shinigami",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigami",
         "resources": {
-          "apkUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.shinigami-v1.6.85.apk",
+          "apkUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.shinigami-v1.6.85.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/inipew/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/inipew/extensions/releases/download/86e1780/tachiyomi-id.shinigami-v1.6.85.jar"
+          "jarUrl": "https://github.com/inipew/extensions/releases/download/52a7c17/tachiyomi-id.shinigami-v1.6.85.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106085",
